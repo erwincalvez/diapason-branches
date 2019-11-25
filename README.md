@@ -1,3 +1,3 @@
 # diapason-branches
 Introdution
-je suis sur mybranch maitenant 
+je suis sur supermaster maitenant 
